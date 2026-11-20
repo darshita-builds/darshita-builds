@@ -28,21 +28,10 @@ class Darshita:
 
     def currently(self):
         return {
-            "building":  ["Stakeout", "SATARK", "DumpIt"],
             "learning":  ["Deep Learning", "Smart Contracts", "Full-stack dev"],
             "open_to":   ["Hackathons", "Internships", "Open-source collabs"],
         }
 ```
-
----
-
-## 🔥 What I'm Working On
-
-| Project | Event | What it is | My role |
-|---|---|---|---|
-| 🕵️ **Stakeout** | Hacker House Goa 2026 · *AI × Crypto* | An AI-powered oracle that flags scam wallets on-chain. **Selected for the next round.** | Smart contracts & frontend |
-| 🛡️ **SATARK** | Smart India Hackathon | Working prototype for SIH | ML & NLP |
-| 🗂️ **DumpIt** | Wispr Flow shortlisting task | Built with Team Synergy | Builder |
 
 ---
 
@@ -128,14 +117,6 @@ Simple linear regression that models price against area, evaluated with MSE and 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshita-builds&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
-
----
-
-## 🏆 Highlights
-
-- 🚀 **Hacker House Goa 2026** – selected; project *Stakeout* advanced to the next round
-- 🇮🇳 **Smart India Hackathon** – building *SATARK* (ML & NLP lead)
-- 🎯 **Wispr Flow** – shortlisting task submission with *DumpIt*
 
 ---
 
